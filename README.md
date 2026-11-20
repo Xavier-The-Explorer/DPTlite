@@ -34,7 +34,7 @@ and runs a set of **simple, heuristic** structure predictions — now wrapped in
 DPTlite is designed as a "next generation's online toolkit" which is comprehensive but easy to use. The opreations are very simple: register
 an account, then log in to use advanced analytic tools freely. Users can upload files, download reports, and customize their own sequences.
 
-See the **video demo** on YouTube for more details: [DPTlite User Manual](https://www.youtube.com)
+See the **video demo** on YouTube for more details: [DPTlite Video Demo](https://www.youtube.com/watch?v=SMayq8Qmzlg)
 
 
 ## What's in this project
